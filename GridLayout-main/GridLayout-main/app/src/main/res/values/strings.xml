@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="miya">Miya</string>
+    <string name="tigreal">Tigreal</string>
+    <string name="alucard">Alucard</string>
+    <string name="saber">Saber</string>
+    <string name="layla">Layla</string>
+    <string name="zilong">Zilong</string>
+    <string name="eudora">Eudora</string>
+    <string name="franco">Franco</string>
+    <string name="sun">Sun</string>
+    <string name="chou">Chou</string>
+</resources>
